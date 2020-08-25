@@ -1,0 +1,3 @@
+tools/setup.bin
+tools/Diers.img
+512

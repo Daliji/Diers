@@ -1,0 +1,3 @@
+tools/boot.bin
+tools/Diers.img
+0
